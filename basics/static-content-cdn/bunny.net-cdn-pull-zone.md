@@ -46,10 +46,10 @@ Example: \`eot, ttf, woff, woff2, css, js, gz\`
 
 ### 1) NGINX Headers
 
-Add **`Access-Control-Allow-Origin`** header to nginx\
+Add **`Access-Control-Allow-Origin`** header to nginx all locations.\
 Example: `add_header Access-Control-Allow-Origin "https://aussocialstatic.b-cdn.net";`
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>These paths are heavily used for static files... but the header might be required in multiple locations in the nginx conf</p></figcaption></figure>
 
 ### 2) Mastodon .env
 

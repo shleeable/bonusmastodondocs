@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Reading Material](reading-material.md)
 
 ## Basics
 
