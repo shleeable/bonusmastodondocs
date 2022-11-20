@@ -14,7 +14,6 @@
 
 ## Advanced
 
-* [Introduction to Scaling](advanced/introduction-to-scaling.md)
 * [OS Tuning](advanced/os-tuning.md)
 * [NGINX Tuning (Reverse Proxy)](advanced/nginx-tuning-reverse-proxy.md)
 * [NGINX Monitoring](advanced/nginx-monitoring.md)
