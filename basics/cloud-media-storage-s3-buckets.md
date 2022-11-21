@@ -28,5 +28,5 @@ Do not for any reason use AWS S3... they charge you for storage and upload/downl
 
 ### Wasabi
 
-I'm using Wasabi, because they are very cheap. They have a history of outages in their primary regions, but in Sydney, I haven't experienced anything.
+I'm using Wasabi, because they are very cheap. They have a history of outages in their primary regions, but in Sydney, I haven't experienced any issues with their service (as of writing).
 
