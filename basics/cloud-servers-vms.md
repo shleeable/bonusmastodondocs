@@ -11,7 +11,8 @@ Aus.Social currently has 4 VMs:
 * PostgreSQL and Redis : 4 CPU / 8 GB VM
 * ElasticSearch : 2 CPU / 4 GB VM
 * Sidekiq : 6 CPU / 16 GB VM
-* Nginx/Puma/Streaming : 8 CPU / 16 GB VM
+* Nginx: 2 CPU / 4GB VM
+* Puma/Streaming : Two x 4 CPU / 8 GB VM
 
 This setup will allow me to increase the VMs as required but is currently running at around 50% utilisation on the Nginx / web server when hosting 10,000\~ active users (with average on and off usage).
 

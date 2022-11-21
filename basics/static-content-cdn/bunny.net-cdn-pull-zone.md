@@ -40,7 +40,7 @@ Add \`,js, gz\` to the Extension list.
 
 Example: \`eot, ttf, woff, woff2, css, js, gz\`
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Stage 3: Configure Mastodon and NGINX
 
