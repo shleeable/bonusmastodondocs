@@ -13,7 +13,10 @@ AWS S3 has 99.999% SLA, but also very very expensive. Don’t use it.
 * [Wasabi Cloud Storage](https://wasabi.com/s3-compatible-cloud-storage/)&#x20;
 * [Backblaze Cloud Storage](https://www.backblaze.com/b2/cloud-storage.html)
 * [Jortage Communal Cloud](https://jortage.com/) (huge fan of this service for US instances)
-* Bunny.net Cloud Storage (coming 2023)\
+* Bunny.net Cloud Storage (coming 2023)
 
+## Recommendations
+
+I'm using Wasabi, because they are very cheap. They have a history of outages in their primary regions, but in Sydney, I haven't experienced anything.
 
 Just try to find one in your region… not a lot “tuning” that can be done on this front.
