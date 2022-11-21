@@ -9,4 +9,7 @@ Unlike AWS S3, I highly recommend AWS SES.
 * Amazon Simple Email Service (SES)
 * Mailgun
 * SparkPost
-* \
+
+Based in EU and GDPR-friendly:
+* [MailPace](https://mailpace.com/)
+* [Sendinblue](https://sendinblue.com/)
