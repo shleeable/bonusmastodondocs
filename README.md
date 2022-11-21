@@ -17,6 +17,10 @@ Firstly, Please read the blogs written by Gargon and the official documentation 
 ](https://blog.joinmastodon.org/2017/04/scaling-mastodon/)[https://docs.joinmastodon.org/admin/scaling/](https://docs.joinmastodon.org/admin/scaling/)\
 [https://gist.github.com/Gargron/aa9341a49dc91d5a721019d9e0c9fd11](https://gist.github.com/Gargron/aa9341a49dc91d5a721019d9e0c9fd11)
 
+## Mastodon: Piece by Piece
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>High Level diagram of Aus.Social (NOV 2022)</p></figcaption></figure>
 
 
-<figure><img src="https://lh6.googleusercontent.com/_mWsfCArEKIr4YwIzI5t5X3yEwAa-XgUECQelS135_w6R6g60pAVbWIPuRE9Ob5Jdv2SNSkCIvnYfHDE421CNEyKMvRc5RWbPVgTAo-jc8u0jrE-l3GFW7TtyrB81JpsZHi-2LoU0CzMCm1a3mLLX9aCNDIonb_jtb-PhTUn0HjS9FwU3wp76ledOU9BPw" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://lh6.googleusercontent.com/_mWsfCArEKIr4YwIzI5t5X3yEwAa-XgUECQelS135_w6R6g60pAVbWIPuRE9Ob5Jdv2SNSkCIvnYfHDE421CNEyKMvRc5RWbPVgTAo-jc8u0jrE-l3GFW7TtyrB81JpsZHi-2LoU0CzMCm1a3mLLX9aCNDIonb_jtb-PhTUn0HjS9FwU3wp76ledOU9BPw" alt=""><figcaption><p>Generic diagram of a Mastodon Instance</p></figcaption></figure>
