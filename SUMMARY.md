@@ -6,7 +6,7 @@
 ## Basics
 
 * [Cloud Servers (VMs)](basics/cloud-servers-vms.md)
-* [Cloud Media Storage (S3 Buckets)](basics/cloud-media-storage-s3-buckets/README.md)
+* [Cloud Media Storage (S3 Buckets)](basics/cloud-media-storage-s3-buckets.md)
   * [Media SubDomain](basics/cloud-media-storage-s3-buckets/media-subdomain.md)
 * [Cloud Email (SMTP)](basics/cloud-email-smtp/README.md)
   * [AWS SES](basics/cloud-email-smtp/aws-ses.md)

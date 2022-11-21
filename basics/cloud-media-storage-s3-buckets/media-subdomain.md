@@ -2,7 +2,7 @@
 
 I'm using Wasabi as the backend, but I serve all content via a https://mediacdn.aus.social/ URL.
 
-This will allow me to switch from Wasabi to BunnyS3 once they support it.
+This will allow me to quickly switch from Wasabi to BunnyS3 once they support it, by just updating the $s3\_backend path.
 
 ## Option 1: Forwarding only
 
