@@ -13,6 +13,7 @@
   * [AWS SES](basics/cloud-email-smtp/aws-ses.md)
 * [Static Content CDN](basics/static-content-cdn/README.md)
   * [Bunny.net CDN (Pull Zone)](basics/static-content-cdn/bunny.net-cdn-pull-zone.md)
+* [Backups](basics/backups.md)
 
 ## Advanced
 
