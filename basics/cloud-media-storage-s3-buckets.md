@@ -17,6 +17,15 @@ AWS S3 has 99.999% SLA, but also very very expensive. Don’t use it.
 
 ## Recommendations
 
+Just try to find one in your region… not a lot “tuning” that can be done on this front.
+
+### AWS S3
+
+Do not for any reason use AWS S3... they charge you for storage and upload/download.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>I was using AWS S3, and once more than a few thousand people joined... it went from $30 to $1000s a month for something Wasabi charges $10</p></figcaption></figure>
+
+### Wasabi
+
 I'm using Wasabi, because they are very cheap. They have a history of outages in their primary regions, but in Sydney, I haven't experienced anything.
 
-Just try to find one in your region… not a lot “tuning” that can be done on this front.
