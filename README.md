@@ -21,6 +21,7 @@ Firstly, Please read the blogs written by Gargon and the official documentation 
 
 A stable and high user Mastodon instance is made up of multiple pieces which are all working together.
 
+* Patreon (or similar) to cover operating costs.
 * DNS for internet facing resources.
 * Email provider to send signups/password resets and other notifications.
 * Cloud Storage (S3 compatable) to store and serve media (images/videos/avatars/etc).
