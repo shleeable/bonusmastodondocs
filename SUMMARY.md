@@ -6,6 +6,7 @@
 
 ## Basics
 
+* [Rules and Culture / Terms of Service](basics/rules-and-culture-terms-of-service.md)
 * [Cloud Servers (VMs)](basics/cloud-servers-vms.md)
 * [Cloud Media Storage (S3 Buckets)](basics/cloud-media-storage-s3-buckets.md)
   * [Media SubDomain](basics/cloud-media-storage-s3-buckets/media-subdomain.md)
@@ -13,7 +14,6 @@
   * [AWS SES](basics/cloud-email-smtp/aws-ses.md)
 * [Static Content CDN](basics/static-content-cdn/README.md)
   * [Bunny.net CDN (Pull Zone)](basics/static-content-cdn/bunny.net-cdn-pull-zone.md)
-* [Rules and Culture / Terms of Service](basics/rules-and-culture-terms-of-service.md)
 
 ## Advanced
 
