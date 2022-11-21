@@ -10,7 +10,7 @@ Mastodon is built around multiple pieces of technology, and each of them can be 
 
 Key themes of this document is to highlight bottle necks and allow for scaling. All of these services can be run from a single box, but we HIGHLY recommend splitting them up as you start to scale (as soon as you can afford it).
 
-Firstly, Please read the blogs written by Gargon and the official documentation on scaling. We will be using this as reference.
+Firstly, Please read the blogs written by Gargon and the official documentation on scaling. We will be using these for future reference.
 
 \
 [https://blog.joinmastodon.org/2017/04/scaling-mastodon/\
