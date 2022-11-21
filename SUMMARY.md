@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Reading Material](reading-material.md)
 * [Mental Health](mental-health.md)
 
 ## Basics
@@ -28,4 +27,5 @@
 
 ## Other
 
+* [Reading Material](other/reading-material.md)
 * [OS Monitoring](other/os-monitoring.md)
