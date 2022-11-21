@@ -19,7 +19,20 @@ Firstly, Please read the blogs written by Gargon and the official documentation 
 
 ## Mastodon: Piece by Piece
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>High Level diagram of Aus.Social (NOV 2022)</p></figcaption></figure>
+A stable and high user Mastodon instance is made up of multiple pieces which are all working together.
+
+* DNS for internet facing resources.
+* Email provider to send signups/password resets and other notifications.
+* Cloud Storage (S3 compatable) to store and serve media (images/videos/avatars/etc).
+* CDN to store and server static resources (js/css/svg/etc).
+* VMs to host the Web servers (Frontend/API/Streaming/etc)
+* VMs to host the Sidekiq Queue worker processes.
+* VMs to host the Databases (Postgres) and Cache (Redis).
+* Additional VMs might be required for monitoring/metrics and reporting.
+
+Each of these pieces can be tuned, and optimised for cost/performance. I will make recommendations for all of these.
+
+<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption><p>High Level diagram of Aus.Social (NOV 2022)</p></figcaption></figure>
 
 
 
