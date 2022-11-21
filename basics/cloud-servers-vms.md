@@ -6,7 +6,7 @@ Our goal with this guide is to optimise the VMs to run as high performance as po
 
 ## Example:&#x20;
 
-Aus.Social currently has 4 VMs:
+Aus.Social currently has too many VMs, but for reference:
 
 * PostgreSQL and Redis : 4 CPU / 8 GB VM
 * ElasticSearch : 2 CPU / 4 GB VM
