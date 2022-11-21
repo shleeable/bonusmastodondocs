@@ -27,5 +27,5 @@
 
 ## Other
 
-* [Reading Material](other/reading-material.md)
+* [Reading Material](reading-material.md)
 * [OS Monitoring](other/os-monitoring.md)
