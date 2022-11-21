@@ -30,9 +30,9 @@ server {
 
 ## Option 2: Local Caching
 
-Mastodon has official documentation to use nginx as a local cache by proxying object storage through nginx. \
-\
 This helps if the s3 backend such as Wasabi ever goes down, but puts extra load on the nginx server and required additional local storage.
+
+Mastodon has official documentation to use nginx as a local cache by proxying object storage through nginx.&#x20;
 
 [https://docs.joinmastodon.org/admin/optional/object-storage-proxy/](https://docs.joinmastodon.org/admin/optional/object-storage-proxy/)\
 
