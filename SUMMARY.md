@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Reading Material](reading-material.md)
+* [Mental Health](mental-health.md)
 
 ## Basics
 
