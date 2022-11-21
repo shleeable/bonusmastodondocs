@@ -32,7 +32,7 @@ A stable and high user Mastodon instance is made up of multiple pieces which are
 
 Each of these pieces can be tuned, and optimised for cost/performance. I will make recommendations for all of these.
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption><p>High Level diagram of Aus.Social (NOV 2022)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>High Level diagram of Aus.Social (NOV 2022)</p></figcaption></figure>
 
 
 
