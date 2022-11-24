@@ -10,7 +10,7 @@ I'm running a monitoring service called statuscake.com to test my mastodon endpo
 
 These 3 endpoints should give a pretty basic amount of coverage for the internet facing Puma and NodeJS endpoints.&#x20;
 
-I've connected statuscake up to my mobile, and get push notifications when one of these tests fail.
+I've connected statuscake up to my mobile, and get push notifications sent to my phone when one of these tests fail.
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
