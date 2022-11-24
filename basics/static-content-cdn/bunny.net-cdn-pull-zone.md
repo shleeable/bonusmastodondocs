@@ -20,7 +20,7 @@ Place the original FQDN of your instance in the Original URL.
 
 ### 5) Select your regions to replicate data
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 6) Add new Pull zone
 

@@ -14,6 +14,7 @@
 * [Static Content CDN](basics/static-content-cdn/README.md)
   * [Bunny.net CDN (Pull Zone)](basics/static-content-cdn/bunny.net-cdn-pull-zone.md)
 * [Backups](basics/backups.md)
+* [Monitoring / Alerting](basics/monitoring-alerting.md)
 
 ## Advanced
 
