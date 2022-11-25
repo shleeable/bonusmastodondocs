@@ -18,7 +18,7 @@ I've connected statuscake up to my mobile, and get push notifications sent to my
 
 You can investigate using promethius and other dashboards to display real time and historical details from your instance.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>tyr@pettingzoo.co example dashboard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>tyr@pettingzoo.co example dashboard</p></figcaption></figure>
 
 ## APM (application performance monitoring)
 
