@@ -8,6 +8,6 @@ Using a CDN for static files will take pressure off the nginx/puma webserver whe
 
 ## Example
 
-I'm running bunny.net CDN, and it's caching more than 95% of the static traffic. Which has dropped my CPU usage massively, and improved the \`end user\` experience.
+I'm running bunny.net CDN, and it's caching more than 95% of the static traffic. Which has dropped my CPU usage massively, and improved the \`end user\` experience for only a few bucks a month.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
