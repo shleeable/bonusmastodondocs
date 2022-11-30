@@ -20,7 +20,7 @@
 
 * [OS Tuning](advanced/os-tuning.md)
 * [NGINX Tuning (Reverse Proxy)](advanced/nginx-tuning-reverse-proxy.md)
-* [NGINX Monitoring](advanced/nginx-monitoring.md)
+* [NGINX Trouble Shooting](advanced/nginx-trouble-shooting.md)
 * [PostgreSQL 14 Tuning](advanced/postgresql-14-tuning.md)
 * [Web (Puma) Tuning](advanced/web-puma-tuning.md)
 * [Sidekiq Tuning](advanced/sidekiq-tuning.md)
