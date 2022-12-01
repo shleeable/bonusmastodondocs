@@ -10,4 +10,4 @@ Unlike AWS S3, I highly recommend AWS SES.
 * Mailgun
 * SparkPost (Known to cancel Mastodon instances accounts for "spam")
 * [https://www.zoho.com/zeptomail/](https://www.zoho.com/zeptomail/)
-* \
+* [https://www.smtp2go.com/](https://www.smtp2go.com/) (recommended by pettingzoo)\
