@@ -24,11 +24,7 @@ More: [https://www.mongodb.com/docs/manual/tutorial/transparent-huge-pages/](htt
 
 from [https://redis.io/docs/management/admin/](https://redis.io/docs/management/admin/)
 
-`maxmemory 3gb`
-
-or
-
-`maxmemory 80` for 80%\
+`maxmemory 3gb`\
 
 
 from&#x20;
