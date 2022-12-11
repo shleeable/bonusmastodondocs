@@ -4,17 +4,13 @@
 
 ### /etc/sysctl.conf Tweaks
 
-from [https://redis.io/docs/management/admin/](https://redis.io/docs/management/admin/)
+from [https://redis.io/docs/management/admin/](https://redis.io/docs/management/admin/) and others
 
 `vm.overcommit_memory = 1`
 
-from&#x20;
+`vm.swappiness = 1`
 
-```bash
-vm.swappiness = 1
-```
-
-
+`net.core.somaxconn = 65365`
 
 ### Disable Transparent Huge Pages
 
@@ -26,8 +22,27 @@ More: [https://www.mongodb.com/docs/manual/tutorial/transparent-huge-pages/](htt
 
 ### /etc/redis/redis.conf Tweaks
 
-from x
+from [https://redis.io/docs/management/admin/](https://redis.io/docs/management/admin/)
 
-`tcp-keepalive 0`
+`maxmemory 3gb`
 
-``
+or
+
+`maxmemory 80` for 80%\
+
+
+from&#x20;
+
+`timeout 300`\
+`tcp-keepalive 0`\
+`tcp-backlog 65536`
+
+
+
+from [https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-22-04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-22-04)
+
+```
+rename-command FLUSHDB ""
+rename-command FLUSHALL ""
+rename-command DEBUG ""
+```
